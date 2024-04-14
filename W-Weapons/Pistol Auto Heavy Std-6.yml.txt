@@ -1,0 +1,15 @@
+Code  : StHP-6
+Name  : Std Heavy Pistol-6
+Range : 3
+Damage: (3D) Bullet-3 
+MgT R : Long
+MgT D : 3D
+Mass  : 1.43 kg
+Burden: 3
+Cost  : Cr 300
+
+description: |
+  A semiautomatic handgun, firing bullets at 400 to 500 meters
+  per second. The handle contains a 15-bullet magazine, which 
+  can accept submachinegun ammunition. The gun can be fitted 
+  with a silencer, and a detachable shoulder stock.

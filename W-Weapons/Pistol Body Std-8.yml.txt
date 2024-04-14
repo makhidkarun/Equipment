@@ -1,0 +1,16 @@
+Code  : StBP-8
+Name  : Std Body Pistol-8
+Range : 1
+Damage: (1D) Bullet-1 
+MgT R : Short
+MgT D : 1D
+Mass  : 0.55 kg
+Burden: -4
+Cost  : Cr 450
+
+description: |
+  A highly ergonimic but short-ranged pistol for close work against
+  unarmored targets such as startown thugs, some nobles, and some 
+  wild animals. A 6-cartrige magazine contains custom AP projectiles, 
+  which fire at 500 to 600 meters per second. The gun can be 
+  fitted with a silencer.

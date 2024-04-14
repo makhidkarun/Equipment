@@ -1,0 +1,18 @@
+Code  : StSnP-7
+Name  : Std Snub Pistol-7
+Range : 2
+Damage: (3D) Bullet-3 
+MgT R : Medium
+MgT D : 3D
+Mass  : 0.77 kg
+Burden: -3
+Cost  : Cr 220
+
+description: |
+  The Snap-7 snub pistol is designed for low-cost civilian self-defense. Ship crew often carry these when they're
+  concerned about the types of people they have to do business with. The low-velocity bullets are safe aboard ship,
+  and are low recoil when used in zero-G. Six charges are inserted into a revolving chamber (there is no magazine).
+  
+  The type of charge depends on the needs of the holder. The default charges are high-energy AP rounds, used to 
+  defend against pirates or for the seedier parts of Startown. Tranq or gas charges are used for general 
+  security purposes.

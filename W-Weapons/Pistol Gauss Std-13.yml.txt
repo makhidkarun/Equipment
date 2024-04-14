@@ -1,0 +1,19 @@
+Code  : StGP-13
+Name  : Std Gauss Pistol-13
+Range : 2
+Damage: (4D) Bullet-4 
+MgT R : Medium
+MgT D : 3D-2
+Mass  : 0.66 kg
+Burden: 0
+Cost  : Cr 600
+
+description: |
+  The gauss pistol is a popular weapon because of its
+  silence and its deadliness. The gauss pistol is based 
+  on the same principle as the gauss rifle and the VRF 
+  gauss gun: an EM-effect hurls needlelike AP rounds at 
+  1,500 meters per second. The gauss pistol may fire 
+  either single-round shots or four shot bursts. The 
+  pistol uses the same 4mm ammunition as the gauss rifle; 
+  however, the magazines are not interchangeable.
