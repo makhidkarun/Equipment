@@ -10,4 +10,30 @@ Tabs are superior than other formats, because they are VERY easily split up and 
 Equipment is stored using T5's equipment catalog system, which uses each letter to define one category.
 Beyond that, the rules used to create the equipment is appended to the end of the base filename for clarity.
 
-Examples pending.
+### Example: Weapon
+
+### Example: Armor
+
+### Example: Robot
+
+### Example: Vehicle
+
+## Inter-Compatibility
+
+The format for each particular ruleset don't have to match other rulesets; it's better to create utilities that can convert
+from one format to the other than to try to force all rulesets to follow even a base set of common data.
+
+Internally, the equipment data must follow a consistent format based on that ruleset.
+
+# Format Notes
+
+## T5 Format
+
+## Mongoose 2e Format
+
+## TNE Format
+
+## MegaTraveller Format
+
+## CT/DGP Robots Format
+
