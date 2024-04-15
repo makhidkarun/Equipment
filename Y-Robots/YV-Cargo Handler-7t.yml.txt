@@ -1,0 +1,25 @@
+Label:        Cargo Handler Robot, KCr 200.
+TL:           12
+Tons:         7
+Speed:        4
+AV:           15
+UPP:          unknown
+Senses:       Visual, auditory senses
+Body:         Stronger Heavy Exoskeleton
+Limbs:        Antennae and 4 Large Arms with Heavy-Duty maniplators
+Baseplate:    Lift Baseplate
+Skin:         basic metallic skin
+Enhancements: Rad, Vacc
+Additions:    Sonic Emitter, Floodlight, Networking, Radio Transceiver
+Brain:        Electronic (1D) brain
+Power:        HD
+Description:  |
+   Cargo Vehicle frame with a computer for automated and voice
+   control. Displaces 7 tons. Speed=4. Has cranes and manipulators 
+   capable of lifting and moving up to 5 mass tons.
+
+   The Cargo Handler robot has a Electronic (1D) brain.  Its body
+   is a Stronger Heavy Exoskeleton with Antennae and 4 Large Arms
+   with Heavy-Duty maniplators, and has basic metallic skin.  It 
+   is powered by HD, and is connected to a Lift Baseplate.  
+   Additions: Sonic Emitter, Floodlight, Networking, Radio Transceiver.  

@@ -1,0 +1,25 @@
+Label:        Agricultural Robot, KCr 350.
+TL:           10
+Tons:         6
+Speed:        3
+AV:           26
+UPP:          unknown
+Senses:       Visual, touch, olfactory senses, microscopic,recorder options
+Body:         Strong Agile Heavy Exterior Shell
+Limbs:        2 Standard Arms with Dextrous Graspers, 2 Large Arms with Tentacles, Antennae and 2 XSmall Arms with Fine Detail control
+Baseplate:    Lift Baseplate
+Skin:         basic metallic skin
+Enhancements: Waterproof, Anti-Corrosion, Shock
+Additions:    Sonic Emitter, Floodlight, Networking, Radio Transceiver
+Brain:        Electronic (1D) brain
+Power:        Fusion+
+Description:  |
+   Oblong, streamlined robot intended for vegetable cultivation. Designed on the 
+   Lift Explorer Vehicle frame. Each contains small manipulators, chemical sprays,
+   a built-in Analyzer/Sniffer, and a flamethrower.
+
+   The Agricultural robot has a Electronic (1D) brain.  Its body is a Strong Agile
+   Heavy Exterior Shell with 2 Standard Arms with Dextrous Graspers, 2 Large Arms 
+   with Tentacles, Antennae and 2 XSmall Arms with Fine Detail control, and has 
+   basic metallic skin.  It is powered by Fusion+, and is connected to a Lift 
+   Baseplate.  Additions: Sonic Emitter, Floodlight, Networking, Radio Transceiver.  

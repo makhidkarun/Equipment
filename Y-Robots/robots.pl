@@ -333,4 +333,5 @@ Flyer         , SD=2,  VHT+R,     LE=12,      3M+H=18, -,        2M=18, -,    RV
 Researcher    , ODD=3, VHTSP+R,   L=8,        2M+F=14, 2M+H=14,  2M=18, -,    HDRVPWX=7, -,    P=1,   NR=2,  88886, P=4,     72
 Forensic      , SDD=3, VHTS+R,    LF=6,       M+F=7,   M+H=7,    2SS=16,-,    RW=2,      -,    P=1,   NR=2,  48486, P=4,     48
 Security Drone, ED=1,  VH+TR,     HX=15,      2L+V=20, -,        -,     -,    RVW=3,     L=30, S=1,   SN=2,  CC844, FP=20,   96
-Agricultural  , SDD=2, VTS+MR,    aHX+s1,     2XS+F,   2M+xG,    2L+T,  A,    WXE,       L,    S,     EFNR,  AAA44, FP,      360, 350
+Agricultural  , ED=1,  VTS+MR,    aHX+s1,     2XS+F,   2M+xG,    2L+T,  A,    WXE,       L,    S,     EFNR,  AAA44, FP,      360, 350
+Cargo Handler , ED=1,  VH,        HE+s2,      4L+V,    -,        -,     A,    RV,        L,    S,     EFNR,  AAA44, HD,      360, 200
