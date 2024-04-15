@@ -1,0 +1,13 @@
+Label:        HeNRY Remote Guard robot, Size 60, UPP 48882R, Shock,  KCr???
+UPP:          48882R
+Senses:       Visual, auditory senses, telescopic,recorder options
+Body:         Light Exterior Shell
+Limbs:        3 XSmall Arms with Tentacles
+Baseplate:    Lift Baseplate
+Skin:         No skin
+Enhancements: Shock
+Additions:    Networking
+Brain:        Electronic (2D) brain
+Power:        7-Day PowerCell
+Skills:       
+Description:  The HeNRY Remote Guard robot has a Electronic (2D) brain.  Its body is a Light Exterior Shell with 3 XSmall Arms with Tentacles, and has No skin.  It is powered by 7-Day PowerCell, and is connected to a Lift Baseplate.  Additions: Networking.  

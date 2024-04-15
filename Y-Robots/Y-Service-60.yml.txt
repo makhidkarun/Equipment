@@ -1,0 +1,12 @@
+Label:        Service robot, Size 60, UPP 88482R KCr???
+UPP:          88482R
+Senses:       Visual, auditory, touch, olfactory senses
+Body:         Bony Interior Skeleton
+Limbs:        2 Standard Legs and 2 Standard Arms with Hands
+Skin:         pseudo-bio skin
+Enhancements: 
+Additions:    
+Brain:        Organic (2D) brain
+Power:        Nutrient and Air Canister
+Skills:       
+Description:  The Service robot has a Organic (2D) brain.  Its body is a Bony Interior Skeleton with 2 Standard Legs and 2 Standard Arms with Hands, and has pseudo-bio skin.  It is powered by Nutrient and Air Canister.  

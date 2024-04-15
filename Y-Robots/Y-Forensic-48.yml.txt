@@ -1,0 +1,12 @@
+Label:        Forensic robot, Size 48, UPP 48486R, Rad, Waterproof,  KCr???
+UPP:          48486R
+Senses:       Visual, auditory, touch, olfactory senses, recorder options
+Body:         Light Flexible Interior Skeleton
+Limbs:         Standard Arms with Hands, 2 SSmall Legs and  Standard Arms with Fine Detail control
+Skin:         pseudo-bio skin
+Enhancements: Rad, Waterproof
+Additions:    Networking, Radio Transceiver
+Brain:        Semi-Organic (2D) brain
+Power:        1-Day PowerCell
+Skills:       
+Description:  The Forensic robot has a Semi-Organic (2D) brain.  Its body is a Light Flexible Interior Skeleton with  Standard Arms with Hands, 2 SSmall Legs and  Standard Arms with Fine Detail control, and has pseudo-bio skin.  It is powered by 1-Day PowerCell.  Additions: Networking, Radio Transceiver.  

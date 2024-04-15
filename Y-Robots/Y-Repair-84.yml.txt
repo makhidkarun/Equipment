@@ -1,0 +1,12 @@
+Label:        Repair robot, Size 84, UPP F8846R, Hot Env, Cold Env, Rad, Vacc, Pressure, Waterproof, Anti-Corrosion,  KCr???
+UPP:          F8846R
+Senses:       Visual, auditory, touch, olfactory senses
+Body:         Strong Heavy Flexible Interior Skeleton
+Limbs:        2 Standard Arms with Heavy-Duty maniplators, 3 Large Legs and 1 Standard Arms with Fine Detail control
+Skin:         No skin
+Enhancements: Hot Env, Cold Env, Rad, Vacc, Pressure, Waterproof, Anti-Corrosion
+Additions:    
+Brain:        Electronic (1D) brain
+Power:        1-Day HD PowerCell
+Skills:       
+Description:  The Repair robot has a Electronic (1D) brain.  Its body is a Strong Heavy Flexible Interior Skeleton with 2 Standard Arms with Heavy-Duty maniplators, 3 Large Legs and 1 Standard Arms with Fine Detail control, and has No skin.  It is powered by 1-Day HD PowerCell.  

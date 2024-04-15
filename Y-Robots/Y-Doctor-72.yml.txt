@@ -1,0 +1,12 @@
+Label:        Doctor robot, Size 72, UPP 4C886R, Hot Env, Cold Env, Rad,  KCr???
+UPP:          4C886R
+Senses:       Visual, touch, olfactory senses, recorder options
+Body:         Flexible Interior Skeleton
+Limbs:        S Arms with Fine Detail control, 3 Small Legs and 2 Standard Arms with Hands
+Skin:         pseudo-bio skin
+Enhancements: Hot Env, Cold Env, Rad
+Additions:    Networking
+Brain:        Semi-Organic (2D) brain
+Power:        Anaerobic Nutrient and Canister
+Skills:       
+Description:  The Doctor robot has a Semi-Organic (2D) brain.  Its body is a Flexible Interior Skeleton with S Arms with Fine Detail control, 3 Small Legs and 2 Standard Arms with Hands, and has pseudo-bio skin.  It is powered by Anaerobic Nutrient and Canister.  Additions: Networking.  

@@ -1,0 +1,13 @@
+Label:        Guardian robot, Size 72, UPP 88884R, Vacc, Shock,  KCr???
+UPP:          88884R
+Senses:       Visual, auditory, awareness, olfactory senses
+Body:         Exterior Shell
+Limbs:        2 SSmall+R
+Baseplate:    Lift Baseplate
+Skin:         No skin
+Enhancements: Vacc, Shock
+Additions:    Networking, Radio Transceiver
+Brain:        Positronic (2D) brain
+Power:        7-Day PowerCell
+Skills:       
+Description:  The Guardian robot has a Positronic (2D) brain.  Its body is a Exterior Shell with 2 SSmall+R, and has No skin.  It is powered by 7-Day PowerCell, and is connected to a Lift Baseplate.  Additions: Networking, Radio Transceiver.  

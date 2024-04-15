@@ -1,0 +1,12 @@
+Label:        Researcher robot, Size 72, UPP 88886R, Hot Env, Cold Env, Rad, Vacc, Pressure, Waterproof, Anti-Corrosion,  KCr???
+UPP:          88886R
+Senses:       Visual, auditory, touch, perception, olfactory senses, recorder options
+Body:         Fluid Interior
+Limbs:        2 Standard Arms with Hands, 2 Standard Legs and 2 Standard Arms with Fine Detail control
+Skin:         pseudo-bio skin
+Enhancements: Hot Env, Cold Env, Rad, Vacc, Pressure, Waterproof, Anti-Corrosion
+Additions:    Networking, Radio Transceiver
+Brain:        Organic (2D) brain
+Power:        1-Day PowerCell
+Skills:       
+Description:  The Researcher robot has a Organic (2D) brain.  Its body is a Fluid Interior with 2 Standard Arms with Hands, 2 Standard Legs and 2 Standard Arms with Fine Detail control, and has pseudo-bio skin.  It is powered by 1-Day PowerCell.  Additions: Networking, Radio Transceiver.  

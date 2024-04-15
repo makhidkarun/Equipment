@@ -1,0 +1,12 @@
+Label:        Recon robot, Size 72, UPP 48C82R, Waterproof, Anti-Corrosion,  KCr???
+UPP:          48C82R
+Senses:       Visual, auditory, awareness, perception senses, recorder options
+Body:         Agile Flexible Interior Skeleton
+Limbs:        4 Small Legs and 3S Arms with Dextrous Graspers
+Skin:         basic metallic skin+H
+Enhancements: Waterproof, Anti-Corrosion
+Additions:    Satellite Tracking, Networking
+Brain:        Semi-Organic (2D) brain
+Power:        Anaerobic Nutrient and Canister
+Skills:       
+Description:  The Recon robot has a Semi-Organic (2D) brain.  Its body is a Agile Flexible Interior Skeleton with 4 Small Legs and 3S Arms with Dextrous Graspers, and has basic metallic skin+H.  It is powered by Anaerobic Nutrient and Canister.  Additions: Satellite Tracking, Networking.  

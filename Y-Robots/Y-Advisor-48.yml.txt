@@ -1,0 +1,12 @@
+Label:        Advisor robot, Size 48, UPP 48484R KCr???
+UPP:          48484R
+Senses:       Visual, auditory senses, recorder options
+Body:         Light Bony Interior Skeleton
+Limbs:        2 Small Legs and 2S Arms with Hands
+Skin:         pseudo-bio skin
+Enhancements: 
+Additions:    Networking
+Brain:        Organic (2D) brain
+Power:        Nutrient and Air Canister
+Skills:       
+Description:  The Advisor robot has a Organic (2D) brain.  Its body is a Light Bony Interior Skeleton with 2 Small Legs and 2S Arms with Hands, and has pseudo-bio skin.  It is powered by Nutrient and Air Canister.  Additions: Networking.  

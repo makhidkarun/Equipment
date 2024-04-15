@@ -1,0 +1,13 @@
+Label:        Bearer robot, Size 72, UPP 88842R, Hot Env, Cold Env, Rad, Vacc, Waterproof, Anti-Corrosion,  KCr???
+UPP:          88842R
+Senses:       Visual, auditory, touch senses
+Body:         Exoskeleton
+Limbs:         Standard Arms with Tentacles
+Baseplate:    Lift Baseplate
+Skin:         No skin
+Enhancements: Hot Env, Cold Env, Rad, Vacc, Waterproof, Anti-Corrosion
+Additions:    
+Brain:        Electronic (1D) brain
+Power:        7-Day PowerCell
+Skills:       
+Description:  The Bearer robot has a Electronic (1D) brain.  Its body is a Exoskeleton with  Standard Arms with Tentacles, and has No skin.  It is powered by 7-Day PowerCell, and is connected to a Lift Baseplate.  

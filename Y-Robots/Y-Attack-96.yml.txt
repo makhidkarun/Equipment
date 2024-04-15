@@ -1,0 +1,12 @@
+Label:        Attack robot, Size 96, UPP FE884R, Rad, Waterproof,  KCr???
+UPP:          FE884R
+Senses:       Visual, auditory, awareness, olfactory senses
+Body:         Strong VAgile Heavy Exoskeleton
+Limbs:        2 Large Arms with Ped Options, 2 Large Legs and 2 Standard Arms with Ped Options
+Skin:         self-healing biological skin
+Enhancements: Rad, Waterproof
+Additions:    Satellite Tracking, Networking
+Brain:        Semi-Organic (1D) brain
+Power:        Anaerobic Nutrient and Canister
+Skills:       
+Description:  The Attack robot has a Semi-Organic (1D) brain.  Its body is a Strong VAgile Heavy Exoskeleton with 2 Large Arms with Ped Options, 2 Large Legs and 2 Standard Arms with Ped Options, and has self-healing biological skin.  It is powered by Anaerobic Nutrient and Canister.  Additions: Satellite Tracking, Networking.  

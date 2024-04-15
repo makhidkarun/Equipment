@@ -1,0 +1,12 @@
+Label:        Flyer robot, Size 60, UPP 48846R, Rad, Vacc,  KCr???
+UPP:          48846R
+Senses:       Visual, auditory, touch senses, recorder options
+Body:         Light Exoskeleton
+Limbs:        2 Standard Legs and 3 Standard Arms with Hands
+Skin:         No skin
+Enhancements: Rad, Vacc
+Additions:    Ballistic Tracking, Beacon Tracking, Networking, Radio Transceiver
+Brain:        Semi-Organic (1D) brain
+Power:        1-Day PowerCell
+Skills:       
+Description:  The Flyer robot has a Semi-Organic (1D) brain.  Its body is a Light Exoskeleton with 2 Standard Legs and 3 Standard Arms with Hands, and has No skin.  It is powered by 1-Day PowerCell.  Additions: Ballistic Tracking, Beacon Tracking, Networking, Radio Transceiver.  

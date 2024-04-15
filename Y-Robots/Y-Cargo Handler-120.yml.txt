@@ -1,0 +1,13 @@
+Label:        T-35 Cargo Handler robot, Size 120, UPP L7742R KCr???
+UPP:          L7742R
+Senses:       Visual senses, recorder options
+Body:         Strong Heavy Exoskeleton
+Limbs:        3 Large Arms with Tentacles
+Baseplate:    Lift Baseplate
+Skin:         No skin
+Enhancements: 
+Additions:    
+Brain:        Positronic (1D) brain
+Power:        Fusion+
+Skills:       
+Description:  The T-35 Cargo Handler robot has a Positronic (1D) brain.  Its body is a Strong Heavy Exoskeleton with 3 Large Arms with Tentacles, and has No skin.  It is powered by Fusion+, and is connected to a Lift Baseplate.  

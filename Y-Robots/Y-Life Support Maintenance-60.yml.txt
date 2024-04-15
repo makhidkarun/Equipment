@@ -1,0 +1,12 @@
+Label:        Life Support Maintenance robot, Size 60, UPP F8844R, Rad, Vacc, Waterproof, Anti-Corrosion,  KCr???
+UPP:          F8844R
+Senses:       Visual, auditory, olfactory senses
+Body:         Strong Heavy Exterior Shell
+Limbs:        2 Standard Legs and 2 Large Arms with Hands
+Skin:         No skin
+Enhancements: Rad, Vacc, Waterproof, Anti-Corrosion
+Additions:    
+Brain:        Electronic (1D) brain
+Power:        Broadcast Power
+Skills:       
+Description:  The Life Support Maintenance robot has a Electronic (1D) brain.  Its body is a Strong Heavy Exterior Shell with 2 Standard Legs and 2 Large Arms with Hands, and has No skin.  It is powered by Broadcast Power.  

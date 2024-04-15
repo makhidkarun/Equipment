@@ -1,0 +1,13 @@
+Label:        Security Drone robot, Size 96, UPP CC844R, Rad, Vacc, Waterproof,  KCr???
+UPP:          CC844R
+Senses:       Visual, auditory senses, telescopic,recorder options
+Body:         Heavy Exterior Shell
+Limbs:        2 Large Arms with Heavy-Duty maniplators
+Baseplate:    Lift Baseplate
+Skin:         basic metallic skin
+Enhancements: Rad, Vacc, Waterproof
+Additions:    Satellite Tracking, Networking
+Brain:        Electronic (1D) brain
+Power:        Fusion+
+Skills:       
+Description:  The Security Drone robot has a Electronic (1D) brain.  Its body is a Heavy Exterior Shell with 2 Large Arms with Heavy-Duty maniplators, and has basic metallic skin.  It is powered by Fusion+, and is connected to a Lift Baseplate.  Additions: Satellite Tracking, Networking.  

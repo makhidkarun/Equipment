@@ -1,0 +1,12 @@
+Label:        Infantry robot, Size 84, UPP 8C886R, Hot Env, Cold Env, Rad, Vacc, Pressure, Waterproof, Anti-Corrosion,  KCr???
+UPP:          8C886R
+Senses:       Visual, auditory, awareness, perception senses
+Body:         Bony Interior Skeleton
+Limbs:        2 Standard Legs, Small Antennae and 2 Large Arms with Hands
+Skin:         basic metallic skin2
+Enhancements: Hot Env, Cold Env, Rad, Vacc, Pressure, Waterproof, Anti-Corrosion
+Additions:    Satellite Tracking, Radio Transceiver
+Brain:        Organic (2D) brain
+Power:        Anaerobic Nutrient and Canister
+Skills:       
+Description:  The Infantry robot has a Organic (2D) brain.  Its body is a Bony Interior Skeleton with 2 Standard Legs, Small Antennae and 2 Large Arms with Hands, and has basic metallic skin2.  It is powered by Anaerobic Nutrient and Canister.  Additions: Satellite Tracking, Radio Transceiver.  

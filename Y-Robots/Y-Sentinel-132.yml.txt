@@ -1,0 +1,13 @@
+Label:        Sentinel robot, Size 132, UPP SCC44R, Rad, Vacc,  KCr???
+UPP:          SCC44R
+Senses:       Visual, auditory, awareness senses
+Body:         Stronger Heavy Exoskeleton
+Limbs:        6 Large Arms with Tentacles
+Baseplate:    Lift Baseplate
+Skin:         No skin
+Enhancements: Rad, Vacc
+Additions:    Floodlight, Networking
+Brain:        Positronic (1D) brain
+Power:        Fusion+
+Skills:       
+Description:  The Sentinel robot has a Positronic (1D) brain.  Its body is a Stronger Heavy Exoskeleton with 6 Large Arms with Tentacles, and has No skin.  It is powered by Fusion+, and is connected to a Lift Baseplate.  Additions: Floodlight, Networking.  
